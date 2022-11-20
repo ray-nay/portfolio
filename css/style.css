@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-size: 40px;
+}
+ul{
+    text-align: right;
+    margin-right: 10%;
+}
+ul li{
+    font-size: 35px;
+    display: inline-flex;
+    justify-content: space-around;
+    text-decoration:none;  
+    color:black; 
+    
+}
